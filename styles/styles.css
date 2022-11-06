@@ -17,5 +17,39 @@ img {
 }
 
 body {
+  background: hsl(212deg, 45%, 89%);
+  display: grid;
   font-family: "Outfit", sans-serif;
+  min-height: 100vh;
+  place-content: center;
+}
+body article {
+  background: hsl(0deg, 0%, 100%);
+  border-radius: 20px;
+  box-shadow: 16px 21px 39px -26px rgba(0, 0, 0, 0.2);
+  max-width: 320px;
+  padding: 16px 16px 40px;
+  text-align: center;
+}
+body article img {
+  border-radius: 10px;
+  height: auto;
+  margin-bottom: 21px;
+  width: 100%;
+}
+body article h1 {
+  color: hsl(218deg, 44%, 22%);
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+  line-height: 28px;
+  margin: 0;
+  margin-bottom: 15px;
+}
+body article p {
+  color: hsl(220deg, 15%, 55%);
+  font-size: 1.05rem;
+  letter-spacing: -0.2px;
+  line-height: 19px;
+  padding: 0 12px;
 }/*# sourceMappingURL=styles.css.map */
