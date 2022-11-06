@@ -1,0 +1,21 @@
+@import "variables";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  user-select: none;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+@import "media";
