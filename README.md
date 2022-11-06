@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor.io](https://www.frontendmentor.io/solutions/qr-code-component-semantic-html-scss-GUEqq07_CU)
+- Live Site URL: [https://ericsalvi.github.io/qr-code-component/](https://ericsalvi.github.io/qr-code-component/)
 
 ## My process
 
@@ -39,4 +39,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
-This was actually done as a challenge that @maiaflow did recently. A 1-hour challenge to complete this from beginning to end. I did that in under 60 minutes as we speak. This was a great way to push yourself into getting one of these completed in that timeframe. 
+This was actually done as a challenge that [@maiaflow](https://github.com/maiaflow) did recently. A 1-hour challenge to complete this from beginning to end. I did that in under 60 minutes as we speak. This was a great way to push yourself into getting one of these completed in that timeframe. 
