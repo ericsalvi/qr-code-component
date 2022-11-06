@@ -40,3 +40,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Acknowledgments
 
 This was actually done as a challenge that [@maiaflow](https://github.com/maiaflow) did recently. A 1-hour challenge to complete this from beginning to end. I did that in under 60 minutes as we speak. This was a great way to push yourself into getting one of these completed in that timeframe. 
+
+Official Time: 58.31!
